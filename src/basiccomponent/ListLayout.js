@@ -6,7 +6,7 @@ class ListLayout extends React.Component{
         return(
             <div>
             <div style={{width:'100px'}}>
-                Facet
+                Facet 
             </div>
             <div>
                 <table className='border'>
