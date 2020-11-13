@@ -1,12 +1,9 @@
-import React, { Component } from 'react';
-import './App.css';
-import ProductMaster from './screen/ProductMaster'
+import React, { Component } from "react";
+import ProductMaster from "./screen/ProductMaster";
 
 class App extends Component {
   render() {
-    return (
-      <ProductMaster/>
-    );
+    return <ProductMaster />;
   }
 }
 
